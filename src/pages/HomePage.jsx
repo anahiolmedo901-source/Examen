@@ -1,3 +1,5 @@
+// Este es un cambio en la rama dev
+
 import { ArrowRight, ChevronDown, Leaf, Sparkles, UsersRound } from 'lucide-react';
 import { useEffect, useState } from 'react';
 import { Link, useSearchParams } from 'react-router-dom';
